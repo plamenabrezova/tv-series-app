@@ -3,12 +3,12 @@ const Footer = () => {
     <div>
       <span>Created by </span>
       <a
-        href="https://github.com/plamenamihaylova"
+        href="https://github.com/plamenabrezova"
         target="_blank"
         rel="noreferrer"
         className="link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
       >
-        Plamena Mihaylova
+        Plamena Brezova
       </a>
       <span> 🐻</span>
     </div>
