@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/tv-series-app/static/css/main.b26fc4cd.css",
-    "main.js": "/tv-series-app/static/js/main.6916dca6.js",
-    "static/js/787.7ee6a689.chunk.js": "/tv-series-app/static/js/787.7ee6a689.chunk.js",
+    "main.css": "/tv-series-app/static/css/main.a84e27d0.css",
+    "main.js": "/tv-series-app/static/js/main.f2afd553.js",
     "static/media/movie-tape.jpg": "/tv-series-app/static/media/movie-tape.b0581067f4b481e0239f.jpg",
     "index.html": "/tv-series-app/index.html",
-    "main.b26fc4cd.css.map": "/tv-series-app/static/css/main.b26fc4cd.css.map",
-    "main.6916dca6.js.map": "/tv-series-app/static/js/main.6916dca6.js.map",
-    "787.7ee6a689.chunk.js.map": "/tv-series-app/static/js/787.7ee6a689.chunk.js.map"
+    "main.a84e27d0.css.map": "/tv-series-app/static/css/main.a84e27d0.css.map",
+    "main.f2afd553.js.map": "/tv-series-app/static/js/main.f2afd553.js.map"
   },
   "entrypoints": [
-    "static/css/main.b26fc4cd.css",
-    "static/js/main.6916dca6.js"
+    "static/css/main.a84e27d0.css",
+    "static/js/main.f2afd553.js"
   ]
 }
