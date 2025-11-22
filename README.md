@@ -1,11 +1,14 @@
-### TV Series Application 📺
-In this app you can search TV series by a key word and observe the result.  
-You can then select a specific series, and you'll be forwarded to a corresponding to the selected series.
+### 📺 TV Series Application 
+
+
+- React application for listing TV Series.
+- Retrieves data from an [external API](https://api.tvmaze.com/) and displays it to the user.
 
 ---
 
-- Basic TV Series listing React App.
-- Retrieves data from API and displays it to the user.
+You can use this application to search for a TV series by a key word.  
+You then can select a specific series (from the search list), and you'll be forwarded to a page with information the particular series.  
+The information includes rating, when the show was premiered, how many episodes it consists and the summary for the show.
 
 ---
 
@@ -18,7 +21,7 @@ In the project directory run:
 
 #### `npm start`
 
-This command will run the app in the development mode on [http://localhost:3000](http://localhost:3000).
+This command will run the app in the development mode on [http://localhost:3000/tv-series-app](http://localhost:3000/tv-series-app).
 
 ---
 
