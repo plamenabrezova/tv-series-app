@@ -6,7 +6,7 @@ const SeriesListItem = ({ series }) => {
       className="list-group-item list-group-item-action bg-transparent"
       to={`/series/${series.show.id}`}
     >
-      {series.show.name}
+      '{series.show.name}' {series.show.premiered?.split("-")[0] ?? "" }
     </Link>
   );
 };
