@@ -1,5 +1,4 @@
 import Main from "../Main/Main";
-import Subtitle from "../Subtitle/Subtitle";
 import Title from "../Title/Title";
 import Footer from "../Footer/Footer";
 
@@ -8,8 +7,7 @@ function App() {
     <div className="container d-flex flex-column">
       <header>
         <div className="px-4 py-5 text-center">
-          <Title message="TV Series List" />
-          <Subtitle message="Here you can find all of your most loved series" />
+          <Title title="TV Series List" subtitle="Here you can find all of your most loved series" />
         </div>
         <hr className="my-4" />
       </header>

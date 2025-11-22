@@ -2,3 +2,8 @@
   color: #6282a8;
   font-family: 'Playfair Display SC', serif !important;
 }
+
+.subtitle {
+  color: #6282a8;
+  font-size: calc(10px + 1vmin);
+}
