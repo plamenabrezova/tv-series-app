@@ -1,5 +1,5 @@
 ### TV Series Application 📺
-🎦 In this app you can search TV series by a key word and observe the result.
+In this app you can search TV series by a key word and observe the result.  
 You can then select a specific series, and you'll be forwarded to a corresponding to the selected series.
 
 ---
@@ -9,7 +9,7 @@ You can then select a specific series, and you'll be forwarded to a correspondin
 
 ---
 
-#### 🔗 [Check the app out](https://plamenamihaylova.github.io/tv-series-app)
+#### 🔗 [Check the app out](https://plamenabrezova.github.io/tv-series-app/)
 
 ---
 
