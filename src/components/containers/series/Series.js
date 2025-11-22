@@ -26,13 +26,18 @@ function Series() {
         <input value={seriesName} type="text" onChange={onSeriesInputChange} className="form-control form-control-lg" placeholder="Series name"/>
       </div>
       {!isFetching && series.length === 0 && seriesName.trim() === "" && (
-        <div className="mt-4 m-2">
-          Please, enter series name to the input.
+        <div className="m-4 position-relative">
+          <div className="position-absolute top-0 start-50 translate-middle">
+            Please, enter series name to the search input.
+          </div>
+          
         </div>
       )}
       {!isFetching && series.length === 0 && seriesName.trim() !== "" && (
-        <div className="mt-4 m-2">
-          No TV series with this name have been found.
+        <div className="m-4 position-relative">
+          <div className="position-absolute top-0 start-50 translate-middle">
+            No TV series with this name have been found.
+          </div>
         </div>
       )}
       {isFetching && <Loader />}
